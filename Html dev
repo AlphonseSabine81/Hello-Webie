@@ -1,0 +1,54 @@
+<!Doctype html>
+<html>
+<head>
+<title>
+Language School</title>
+<link rel="stylesheet" href="assets/stylesheets/reset.css">
+<link rel="stylesheet" href="assets/stylesheets/main.css">
+<link rel="stylesheet" href="assets/stylesheets/griddle.css">
+<script src="script/jquery-3.1.1.js"></script
+<script src="script/slide.js"></script>
+</head>
+<body>
+<!---headerLine---->
+<header class="header">
+<div class="container group ">
+<h1 class="logo"><a href="index.html"><span id ="lan">L</span>anguageSchool</a></h1>
+<nav class="nav"><ul><li><a href="home.html">home</a></li>
+<li><a href="courses.html">courses</a></li>
+<li><a href="gallery.html">gallery</a></li>
+<li><a href="contact.html">contact</a></li>
+<li><a href="about.html">about</a></li></ul></nav>
+</div>
+</header>
+<section class="banner">
+<img id = "bimage" src="images/img1.jpg" alt="school" />
+</section>
+<section class="wrapper_1">
+<div class="container">
+<div clas="row">
+<article class="col-1-3 innerstyle">
+<h2 id="st1">General English</h2>
+<img src="" /> <p>The General English Course teaches students the basics of the language including the four language skills, i.e.reading, writing, speaking and listening, as well as pronunciation and grammar.</p></article>
+<article class="col-1-3 innerstyle">
+<h2 id ="st1">Business English</h2>
+<p>In modern society, business is based on international contact and our school assists in building your business by improving your client service through enhanced communication at work and the ability to communicate with clients in their mother tongue.</p>
+</article>
+<article class="col-1-3 innerstyle">
+<h2 id ="st1">Online English</h2><p>Online lessons with LC can happen in the comfort of your own home or office, no matter where you are in the world.</p></article>
+<article class="col-1-3 innerstyle">
+<h2 id ="st1">Business English</h2>
+<p>In modern society, business is based on international contact and our school assists in building your business by improving your client service through enhanced communication at work and the ability to communicate with clients in their mother tongue.</p>
+</article>
+</div></div></section>
+<footer class="">
+<div class="container group">
+<article class="">
+<nav><ul><li><a href="home.html">home</a></li>
+<li><a href="courses.html">courses</a></li>
+<li><a href="gallery.html">gallery</a></li>
+<li><a href="contact.html">contact</a></li>
+<li><a href="about.html">about</a></li></ul></nav></article>
+<article class="container"></article>
+</div></footer>
+</body></head></html>
